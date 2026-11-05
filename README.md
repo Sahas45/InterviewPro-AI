@@ -1,6 +1,6 @@
 # InterviewPro AI — Multi-Agent AI Interview Preparation Platform
 
-**An AI-powered interview preparation platform built using CrewAI, Google Gemini, and Streamlit.**
+**An GenAI-powered interview preparation platform built using CrewAI, Google Gemini, and Streamlit.**
 
 🔗 **Live Demo:** https://interviewpro-ai-sahas45.streamlit.app/
 
