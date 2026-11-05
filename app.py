@@ -1,6 +1,14 @@
 
 import streamlit as st
 import html
+import os
+
+if "GEMINI_API_KEY" in st.secrets:
+    os.environ["GEMINI_API_KEY"] = st.secrets["GEMINI_API_KEY"]
+
+if "GEMINI_MODEL" in st.secrets:
+    os.environ["GEMINI_MODEL"] = st.secrets["GEMINI_MODEL"]
+
 from question_generator import start_interview, next_question
 
 # ---------------- PAGE CONFIG ----------------
