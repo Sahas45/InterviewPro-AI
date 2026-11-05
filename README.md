@@ -4,8 +4,7 @@
 
 🔗 **Live Demo:** https://interviewpro-ai-sahas45.streamlit.app/
 
-## 📌 Project Overview
-
+## Overview
 InterviewPro AI is an intelligent interview preparation platform that simulates real interview experiences using multiple specialized AI agents.
 
 Candidates can practice role-specific interviews, submit answers, receive AI-generated feedback, and answer follow-up questions to improve their interview performance.
